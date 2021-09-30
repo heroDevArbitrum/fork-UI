@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total ArbiHero burned since launch"
+        "text": "Total Springfield burned since launch"
       }
     },
     {
@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn ArbiHero"
+        "text": "Stake LP tokens to earn Springfield"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake ArbiHero, get SYRUP."
+        "text": "Stake Springfield, get SYRUP."
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake ArbiHero tokens, the contract will automatically harvest ArbiHero rewards for you!"
+        "text": "Every time you stake and unstake Springfield tokens, the contract will automatically harvest Springfield rewards for you!"
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "ArbiHero price"
+        "text": "Springfield price"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 ArbiHero = 1 SYRUP"
+        "text": "1 Springfield = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of ArbiHero block emissions each day (10 ArbiHero per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of Springfield block emissions each day (10 Springfield per block), Rewards are distributed each block."
       }
     },
     {
@@ -351,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% ArbiHero"
+        "text": "%num% Springfield"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend ArbiHero to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend Springfield to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -435,19 +435,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% ArbiHero Available"
+        "text": "%num% Springfield Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 ArbiHero"
+        "text": "Your amount must be a multiple of 10 Springfield"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 ArbiHero"
+        "text": "1 Ticket = 10 Springfield"
       }
     },
     {
@@ -495,7 +495,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your ArbiHero cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your Springfield cannot be returned to you after buying tickets."
       }
     },
     {
@@ -507,7 +507,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "ArbiHero prizes to be claimed"
+        "text": "Springfield prizes to be claimed"
       }
     },
     {
@@ -543,13 +543,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve ArbiHero"
+        "text": "Approve Springfield"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of ArbiHero block emissions each day (10 ArbiHero per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of Springfield block emissions each day (10 Springfield per block), Rewards are distributed each block."
       }
     },
     {
@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using ArbiHero-BNB LP tokens, which means you need to stake equal amounts of ArbiHero and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using Springfield-BNB LP tokens, which means you need to stake equal amounts of Springfield and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get ArbiHero-BNB LP >"
+        "text": "Get Springfield-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, ArbiHero Finance burns the ArbiHero."
+        "text": "The project gets the BNB, Springfield Finance burns the Springfield."
       }
     },
     {
@@ -597,7 +597,7 @@
     {
       "data": {
         "stringId": 514,
-        "text": "Launch your project with ArbiHero Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
+        "text": "Launch your project with Springfield Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
       }
     },
     {
@@ -645,7 +645,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "ArbiHero Stats"
+        "text": "Springfield Stats"
       }
     },
     {
@@ -663,7 +663,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New ArbiHero\/block"
+        "text": "New Springfield\/block"
       }
     },
     {
@@ -675,19 +675,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "ArbiHero to Harvest"
+        "text": "Springfield to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "ArbiHero in Wallet"
+        "text": "Springfield in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting ArbiHero"
+        "text": "Collecting Springfield"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "ArbiHero to Collect"
+        "text": "Springfield to Collect"
       }
     },
     {
@@ -753,19 +753,19 @@
     {
       "data": {
         "stringId": 576,
-        "text": "ArbiHero Finance"
+        "text": "Springfield Finance"
       }
     },
     {
       "data": {
         "stringId": 578,
-        "text": "From Zero to Hero on the best farming project on Arbitrum"
+        "text": ""
       }
     },
     {
       "data": {
         "stringId": 580,
-        "text": "Stake ArbiHero to earn new tokens."
+        "text": "Stake Springfield to earn new tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "ArbiHero to burn (USD)"
+        "text": "Springfield to burn (USD)"
       }
     },
     {
@@ -795,7 +795,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest ArbiHero rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest Springfield rewards for you!"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy ArbiHero and BNB tokens"
+        "text": "Buy Springfield and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get ArbiHero-BNB LP tokens by adding ArbiHero and BNB liquidity"
+        "text": "Get Springfield-BNB LP tokens by adding Springfield and BNB liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your ArbiHero-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your Springfield-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for ArbiHero, or keep for your collection!"
+        "text": "Trade in for Springfield, or keep for your collection!"
       }
     },
     {
@@ -909,7 +909,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive ArbiHero, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive Springfield, you will lose access to it forever!"
       }
     },
     {
@@ -939,7 +939,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a ArbiHero value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a Springfield value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -981,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for ArbiHero"
+        "text": "Trade in for Springfield"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn ArbiHero"
+        "text": "Stake LP tokens to earn Springfield"
       }
     },
     {
@@ -1149,13 +1149,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The ArbiHero Lottery"
+        "text": "The Springfield Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with ArbiHero"
+        "text": "Buy tickets with Springfield"
       }
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback ArbiHero"
+        "text": "Deposit Fee will be used to buyback Springfield"
       }
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn ArbiHero"
+        "text": "Stake tokens to earn Springfield"
       }
     },
     {

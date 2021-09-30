@@ -11,9 +11,8 @@ const GlobalStyle = createGlobalStyle`
   * {
     font-family: 'Kanit', sans-serif;
   }
-  body {  
-    background-color: #f39f86;
-    background-image: linear-gradient(315deg, #f39f86 0%, #f9d976 74%);
+  body {
+    background-image: url('/images/springfield.png');
   ;
 
     img {

@@ -43,7 +43,7 @@ const StyledDetailsButton = styled.button`
   outline: 0;
   padding: 0;
   &:hover {
-    opacity: 0.9;
+    opacity: 1;
   }
 
   & > svg {

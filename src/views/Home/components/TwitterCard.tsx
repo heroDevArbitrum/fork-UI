@@ -7,6 +7,7 @@ import { getBalanceNumber } from 'utils/formatBalance'
 import { useTotalSupply, useBurnedBalance } from 'hooks/useTokenBalance'
 import useI18n from 'hooks/useI18n'
 import { getCakeAddress } from 'utils/addressHelpers'
+import ReactAudioPlayer from 'react-audio-player'
 import CardValue from './CardValue'
 import { useFarms } from '../../../state/hooks'
 
@@ -32,6 +33,11 @@ const TwitterCard = () => {
         <Heading size="xl" mb="24px">
           {TranslateString(10003, 'Announcements')}
         </Heading>
+        <ReactAudioPlayer
+          src="son.mp3"
+          autoPlay
+          controls
+        />
         <Timeline
           dataSource={{
             sourceType: 'profile',

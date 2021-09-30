@@ -12,7 +12,7 @@ const GlobalStyle = createGlobalStyle`
     font-family: 'Kanit', sans-serif;
   }
   body {
-    background-image: url('/images/springfield.jpeg');
+    background-color: #ffd700;
   ;
 
     img {

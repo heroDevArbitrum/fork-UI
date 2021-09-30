@@ -54,12 +54,24 @@ const Cards = styled(BaseLayout)`
   }
 `
 
+const CardsHorizontal = styled.div`
+text-align: center;
+display:flex;
+  width: 300px;
+  margin-bottom: 50px;
+`
+
 const Home: React.FC = () => {
   const TranslateString = useI18n()
 
   return (
     <Page>
       <div>
+<CardsHorizontal>
+          <img src="/images/vfattools-pending-2.png" alt="vfat"/>
+          <img src="/images/mcn-ventures-pending-2.png" alt="mcn" />
+          <img src="/images/rugdoc-pending-2.png" alt="rugdoc" />
+</CardsHorizontal>
         <Cards>
           <FarmStakingCard />
           <TwitterCard />
